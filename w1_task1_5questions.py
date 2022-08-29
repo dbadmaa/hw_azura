@@ -1,5 +1,5 @@
 # Q1
 a = "jargal"
-b = "az"
+b = "B.Az"
 print (b+a)
 
